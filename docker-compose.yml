@@ -1,0 +1,25 @@
+version: '3'
+services:
+  dotnet:
+    container_name: dotnet-testing
+    image: dotnet/microsoft-file
+    restart: unless-stopped
+    ports:
+      - 81:80
+      - 443:443
+    networks:
+      - my_net
+  
+  client:
+    container_name: client-testing
+    image: client-ubuntu:latest
+    build:
+      context: temp
+      dockerfile: Dockerfile
+    # restart: unless-stopped
+    command: tail -f /dev/null
+    networks:
+      - my_net
+
+networks:
+  my_net:
