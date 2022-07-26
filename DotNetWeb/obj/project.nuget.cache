@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4G5VFnCd8UrC0XrRlsLKQ61XAC9FYvV2dwV9KmYsMMMg1KOPOJ8UnINPieIJdESeVSCsZOpQPn+KRWroqEf5ug==",
+  "success": true,
+  "projectFilePath": "D:\\myGitHub\\dotnet-docker-IIS-window\\DotNetWeb\\DotNetWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUOL\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.6\\microsoft.aspnetcore.authentication.negotiate.6.0.6.nupkg.sha512",
+    "C:\\Users\\LUOL\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.6\\microsoft.aspnetcore.connections.abstractions.6.0.6.nupkg.sha512",
+    "C:\\Users\\LUOL\\.nuget\\packages\\microsoft.extensions.features\\6.0.6\\microsoft.extensions.features.6.0.6.nupkg.sha512",
+    "C:\\Users\\LUOL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\LUOL\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\LUOL\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

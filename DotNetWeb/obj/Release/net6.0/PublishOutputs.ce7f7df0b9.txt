@@ -1,0 +1,15 @@
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\DotNetWeb.exe
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\appsettings.Development.json
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\appsettings.json
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\DotNetWeb.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\DotNetWeb.deps.json
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\DotNetWeb.runtimeconfig.json
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\DotNetWeb.pdb
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\Microsoft.Extensions.Features.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\System.DirectoryServices.Protocols.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\System.IO.Pipelines.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\myGitHub\dotnet-docker-IIS-window\DotNetWeb\out\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
