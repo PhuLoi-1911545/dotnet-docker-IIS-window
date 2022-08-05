@@ -3,7 +3,7 @@ services:
   dotnet:
     container_name: dotnet-testing
     image: dotnet/microsoft-file
-    restart: unless-stopped
+    restart: unless-stoppedgit 
     ports:
       - 81:80
       - 443:443
